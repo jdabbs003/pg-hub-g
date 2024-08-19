@@ -1,2 +1,2 @@
 # pg-hub-g
-Lightweight Golang event infastructure built on PostgreSQL.
+Lightweight Golang event infrastructure built on PostgreSQL Notify/Listen.
