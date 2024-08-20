@@ -1,4 +1,4 @@
-module pghub
+module github.com/jdabbs003/pg-hub-g
 
 go 1.21
 
